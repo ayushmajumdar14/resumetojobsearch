@@ -1,1 +1,1 @@
-# resumetojobsearch
+# resumescore.ai
